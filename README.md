@@ -26,15 +26,14 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
+![Screenshot 2023-11-21 192337](https://github.com/yamunadass/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971172/b917f2d9-dd16-4c94-843f-76d4589fa4e2)
+![Screenshot 2023-11-21 192349](https://github.com/yamunadass/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971172/72db3dfc-326e-4d2e-965a-ee3890081853)
+![Screenshot 2023-11-21 192359](https://github.com/yamunadass/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971172/4b847736-dc35-41cd-a0e6-a641904ab944)
 ## Output:
+![Screenshot 2023-11-21 192418](https://github.com/yamunadass/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971172/728292ee-d6f8-491d-8351-9a509d8844cf)
 
-### Name:
-### Register Number:
+### Name: Yamuna M
+### Register Number: 23005405
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
